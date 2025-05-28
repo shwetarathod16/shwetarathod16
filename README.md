@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shweta Rathod</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shwetarathod16&label=Profile%20views&color=0e75b6&style=flat" alt="shwetarathod16" />
