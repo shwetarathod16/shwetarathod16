@@ -7,6 +7,15 @@
 
 ---
 
+## 👩‍🎓 About Me
+
+- 🎓 IT student at **Prof. Ram Meghe Institute** | Diploma in **Computer Engineering**  
+- 💡 Passionate about **coding**, **problem-solving**, and **continuous learning**  
+- 🛠 Skilled in: **C, C++, Java, Python, HTML, JavaScript, Android, Linux**  
+- 📚 Currently exploring **Data Structures & Algorithms (DSA)** and **Shell Scripting**
+
+---
+
 ## 📲 Connect with me
 
 <p align="left">
