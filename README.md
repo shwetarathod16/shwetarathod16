@@ -1,3 +1,4 @@
+<div style="margin-bottom: 40px;">
 <h1 align="center">Hi 👋, I'm Shweta Rathod</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,6 +14,7 @@ src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b76
     <img src="https://github-profile-trophy.vercel.app/?username=shwetarathod16" alt="GitHub trophies" />
   </a>
 </p>
+</div>
 
 ### 👨‍💻 All of my projects are available at:
 👉 [github.com/shwetarathod16](https://github.com/shwetarathod16)
@@ -32,15 +34,15 @@ src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b76
   </a>
 </p>
 
-
+<div style="margin-bottom: 40px;">
 ### 💬 Developer Quote
 <p align="left" style="font-style: italic; font-size: 18px; color: #555;">
   "The best error message is the one that never shows up."
   <br />— Thomas Fuchs
 </p>
-<br><br>
+</div>
 
-
+<div style="margin-bottom: 40px;">
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/></a>
@@ -54,8 +56,7 @@ src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b76
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 </p>
-
-<br><br>
+</div>
 
 
 ### 📊 GitHub Stats:
