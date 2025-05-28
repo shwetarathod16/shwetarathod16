@@ -56,7 +56,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetarathod16&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
-<br><br><br><br>
+<hr>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetarathod16&show_icons=true&locale=en" alt="GitHub stats" />
